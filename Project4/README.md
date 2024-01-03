@@ -1,4 +1,4 @@
-Performance Testing
+Penetration Testing
 
 The purpose of this project was to explore the Reconnaissance and Scanning stages of a Penetration Test. 
 In this project, I attempted to exploit the Metasploitable2 Virtual Machine. As a part of this project, I </br>
